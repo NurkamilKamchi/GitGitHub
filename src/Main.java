@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hi");
         System.out.println("Nurkamil");
         System.out.printf("Myrzayim");
+        System.out.printf("Nurkamil java!!!");
     }
 }
